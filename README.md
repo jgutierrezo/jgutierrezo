@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # 🧗🏻 Juan Gutierrez 
 
-**`Endless Possibilities, One Line of Code at a Time (Full-stack software developer)` **
+`Endless Possibilities, One Line of Code at a Time (Full-stack software developer)`
 
 dwqfwqfwe3f3
