@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🧗🏻 Juan Gutierrez 
+# 🧗🏻 Juan Gutierrez [<img src="https://i.stack.imgur.com/gVE0j.png" alt="Linkedin">](https://www.linkedin.com/in/-juan-gutierrez/)
 
 `Endless Possibilities, One Line of Code at a Time (Full-stack software developer)`
 
