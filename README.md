@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 # 🧗🏻 Juan Gutierrez 
+
+**`Endless Possibilities, One Line of Code at a Time (Full-stack software developer)` **
