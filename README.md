@@ -43,5 +43,5 @@ I'm a full-stack developer that loves to convert ideas into products. My experti
 
 ### 📊 Stats
 
-| <a href="https://github.com/sourav0098/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jgutierrezoshow_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Juan github stats" /></a> | <a href="https://github.com/sourav0098/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgutierrezo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
