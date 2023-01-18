@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 `Endless Possibilities, One Line of Code at a Time (Full-stack software developer)`
 
-dwqfwqfwe3f3
+I'm a full-stack developer with 3+ years of experience in the industry. I am a software artist who loves turning ideas into working projects. My expertise lies in ReactJS, NextJS, JavaScript, Java, SpringBoot, NodeJS, and ExpressJS. I'm always up-to-date with the latest tech advancements and open to learning new things. My technical skills and problem-solving abilities make me a great addition to any project.
