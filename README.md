@@ -43,5 +43,5 @@ I'm a full-stack developer that loves to convert ideas into products. My experti
 
 ### 📊 Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jgutierrezo&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jgutierrezo&theme=gruvbox)](https://git.io/streak-stats)
 
