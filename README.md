@@ -40,3 +40,7 @@ I'm a full-stack developer that loves to convert ideas into products. My experti
 <br />
 
 #
+
+### 📊 Stats
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgutierrezo&show_icons=true&theme=gruvbox)
